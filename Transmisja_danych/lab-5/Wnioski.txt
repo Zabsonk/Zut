@@ -1,0 +1,5 @@
+ASK  przy wartosciach po ca³kowych wykres jest dodatni w PSK jest ujemny. ASK i PSK - krótki czas dzia³ania.
+
+FSK do demodulacji potrzebna sa dwa sygnaly co jest czasoch³onne
+
+

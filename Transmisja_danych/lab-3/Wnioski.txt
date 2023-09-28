@@ -1,0 +1,16 @@
+Przy wzroscie amplitudy nieznacz¹ca róznica
+przy wzorœcie czêstotliwoœci nieznacz¹ca ró¿nica
+przy wzroœcie fazy wiêksza ró¿nica
+Przy modulacji czestotliwoœciowej nastepuje zmiana pasma szerokoœci
+
+ 31.889523684212648
+-142.89687509108967
+174.7863987753023
+
+36.66073623140929
+-129.9872718758204
+166.64800810722969
+
+42.10141667491206
+-127.8696925275585
+169.97110920247056
